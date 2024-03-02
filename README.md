@@ -45,6 +45,7 @@ toString()   // displays account number and balance
 Note:  No if-else, switch will be used
 
 # UML Diagram
+<img width="1100" alt="image" src="https://github.com/aeroldtorregoza/statePattern/assets/143488240/38aec6b7-9904-4981-912a-8c1ca280acaf">
 
 
 
